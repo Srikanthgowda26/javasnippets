@@ -1,6 +1,6 @@
 public class OccuranceOfCharacterInString {
     public static void main(String[] args) {
-        String str = "APPLES";
+        String str = "APPLES ";
         char target = 'P';
         int count = 0;
 
