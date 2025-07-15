@@ -1,6 +1,6 @@
 public class ReverseUsingStringBuffer {
     public static void main(String[] args) {
-        String str = "HELLO Hi";
+        String str = "HELLO";
 
         StringBuffer sbr = new StringBuffer(str);
         sbr.reverse();

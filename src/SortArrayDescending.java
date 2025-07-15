@@ -15,6 +15,6 @@ public class SortArrayDescending {
         System.out.println("Array sorted in descending order: " + Arrays.toString(numbers));
 
         // Print the value at index 2
-        System.out.println("Value at index 2: " + numbers[2]);
+        System.out.println("Value at index 2: " + numbers[0]);
     }
 }
